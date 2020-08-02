@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="N1" max_length="40" name="x_snc_n1_0802_n1" type="collection">
+    <element label="N1_Renamed" max_length="40" name="x_snc_n1_0802_n1" type="collection">
         <element attributes="edge_encryption_enabled=true" label="STr 01" max_length="40" name="str_01" type="string"/>
     </element>
 </database>
